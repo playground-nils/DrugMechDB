@@ -18,7 +18,6 @@
   Explore DrugMechDB online: [https://sulab.github.io/DrugMechDB/](https://sulab.github.io/DrugMechDB/)
 
 ## Purpose
-
 Most drug mechanisms are described simply as a protein target, or sometimes a pathway, that then treats the disease.
 However, there are usually more steps across a biological knowledge graph required to traverse from the target through
 its mechanism to the reduction of a disease.  This database attempts to catalog a subset of known drug-disease indications

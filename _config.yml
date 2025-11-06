@@ -14,6 +14,7 @@ feedback_email: blog@sulab.org
 feedback_disable: true
 google_analytics: G-RM54RDZ3XS
 highlighter: rouge
+incremental: true
 
 markdown: kramdown
 kramdown:
