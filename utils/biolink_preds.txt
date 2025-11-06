@@ -91,6 +91,7 @@ has_output
 has_part
 has_participant
 has_phenotype
+phenotype_of
 has_sequence_location
 has_variant_part
 homologous_to
